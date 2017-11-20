@@ -67,7 +67,7 @@ Legs are ok.
 
 ## Boots
 
-Rerool movement speed to 15% MS. Perfect rools: DEX, VIT, ALL RES, 15% MS
+Reroll movement speed to 15% MS. Perfect rools: DEX, VIT, ALL RES, 15% MS
 
 ## Bow
 
