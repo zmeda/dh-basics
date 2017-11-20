@@ -29,11 +29,15 @@ This shows that just with must haves and DML there is still not enough CDR. SO w
 ## Discipline
 
 You want to maximize the disciplne on all items (where if possible ofc): bow, quiver, cloak (torso).
-One of the important skills around discipline is Preparation with Invigoration rune which gives you 20 more discipline. Max possible discipline (with perfect rolls) is: 30 (initial) + 20 (Prep. skill) + 12 (bow) + 12 (quiver) + 12 (cloak) = 86 (without SoJ - Stone of Jordan). SoJ gives you up to 12 more but then you can not wear Focus + Restraint. SoJ is good for speed builds where you do not need to fully maximize DMG.
+One of the important skills around discipline is Preparation with Invigoration rune which gives you 20 more discipline. Max possible discipline (with perfect rolls) is: 
+```
+30 (initial) + 20 (Prep. skill) + 12 (bow) + 12 (quiver) + 12 (cloak) = 86 (without SoJ - Stone of Jordan)
+```
+SoJ gives you up to 12 more but then you can not wear Focus + Restraint. SoJ is good for speed builds where you do not need to fully maximize DMG.
 
 ## Attack speed (AS)
 
-You want to miximize attack speed. This is APS (Attacks per second) table: https://imgur.com/n9ML9GU . Just check in your stats at what APS are you right now and then decide if you need to reroll something to AS.
+You want to miximize attack speed. This is APS (Attacks per second) breakpoint [table](https://imgur.com/n9ML9GU). Just check in your stats at what APS are you right now and then decide if you need to reroll something to AS.
 
 ## Area DMG
 
