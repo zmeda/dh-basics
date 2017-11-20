@@ -16,10 +16,14 @@ Optional (harder to get):
 - Gloves: 8%
 
 How to calculate CDR?
-```CDR = 1 - ((1 - CDR on item) * (1 - CDR on item) * ...)```
+```
+CDR = 1 - ((1 - CDR on item) * (1 - CDR on item) * ...)
+```
 
 Let's take an example of must haves and DML 8%:
-```CDR = 1 - ((1 - 0,1) * (1 - 0,125) * (1 - 0,08) * (1 - 0,08)) = 1 - (0,9 * 0,875 * 0,92 * 0,92) = 1 - 0,66654 = 33.35%```
+```
+CDR = 1 - ((1 - 0,1) * (1 - 0,125) * (1 - 0,08) * (1 - 0,08)) = 1 - (0,9 * 0,875 * 0,92 * 0,92) = 1 - 0,66654 = 33.35%
+```
 This shows that just with must haves and DML there is still not enough CDR. SO we need another peice. And note that all previous calculations are made on perfect rolls.
 
 ## Discipline
