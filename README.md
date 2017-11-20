@@ -2,7 +2,7 @@
 
 ## CDR
 
-With Yawn in cube you want to have Vengeance always up (why is this important? V. gives you dmg boost, dmg reduction and gives you hatred per second). Yawn gives you 65% CRD on Venegeance. So we need additional ~36.5 (rather a % or two more if you can - just to make sure it is always up).
+With Dawn in cube you want to have Vengeance always up (why is this important? V. gives you dmg boost, dmg reduction and gives you hatred per second). Dawn gives you 65% CRD on Venegeance. So we need additional ~36.5 (rather a % or two more if you can - just to make sure it is always up).
 
 Must haves (not hard to get):
 - Paragon points: 10%
